@@ -1,0 +1,21 @@
+CREACION DEL PROYECTO
+expo init NavigationDrawerApp
+
+
+INSTALACION DEPENDENCIAS
+npm install @react-navigation/native 
+npm install @react-navigation/drawer
+npm install react-native-gesture-handler 
+npm install react-native-reanimated 
+npm install react-native-screens
+npm install react-native-safe-area-context
+npm install @expo/vector-icons
+
+
+EJECUTAR PROYECTO
+Con el emulador abierto de Android Studio
+desde la terminal del proyecto en React Native ejecutar
+
+npm start
+
+Despues presionar la tecla para lanzar en Android
